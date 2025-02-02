@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "author": "Luiz Rodrigo",
+  "author": "Jéssica Oliveira",
   "editor": "wokwi",
   "parts": [
     { "type": "board-pi-pico-w", "id": "pico", "top": 35.15, "left": 3.55, "attrs": {} },
